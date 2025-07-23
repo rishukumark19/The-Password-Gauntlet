@@ -1,0 +1,5 @@
+{
+  "name": "Python Script Generator",
+  "description": "An AI-powered application that generates a complete Python script based on a user's text description. This example generates a Hangman game script.",
+  "requestFramePermissions": []
+}
